@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "rust-lang/rustlings",
+    "stargazers_count": 26923,
+    "open_issues_count": 68,
+    "forks_count": 4278
+  },
+  {
+    "full_name": "Developer-Y/cs-video-courses",
+    "stargazers_count": 39657,
+    "open_issues_count": 12,
+    "forks_count": 5843
+  },
+  {
     "full_name": "iamshaunjp/framer-motion",
     "stargazers_count": 229,
     "open_issues_count": 7,
@@ -25,8 +37,8 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 11619,
-    "open_issues_count": 161,
+    "stargazers_count": 11618,
+    "open_issues_count": 158,
     "forks_count": 671
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 2189,
     "open_issues_count": 7,
     "forks_count": 104
-  },
-  {
-    "full_name": "elierotenberg/node-async-context",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dantrain/react-stonecutter",
-    "stargazers_count": 1154,
-    "open_issues_count": 19,
-    "forks_count": 82
   }
 ]
