@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 41074,
+    "stargazers_count": 41151,
     "open_issues_count": 132,
-    "forks_count": 7458
+    "forks_count": 7471
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 59017,
-    "open_issues_count": 4,
-    "forks_count": 8321
+    "stargazers_count": 59166,
+    "open_issues_count": 5,
+    "forks_count": 8347
   },
   {
     "full_name": "iamshaunjp/framer-motion",
     "stargazers_count": 299,
     "open_issues_count": 12,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "basarat/algorithms",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 13005,
-    "open_issues_count": 202,
-    "forks_count": 758
+    "stargazers_count": 13014,
+    "open_issues_count": 204,
+    "forks_count": 760
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 6779,
+    "stargazers_count": 6785,
     "open_issues_count": 69,
     "forks_count": 355
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7023,
+    "stargazers_count": 7025,
     "open_issues_count": 55,
     "forks_count": 811
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "crsandeep/simple-react-full-stack",
-    "stargazers_count": 1596,
+    "stargazers_count": 1598,
     "open_issues_count": 0,
-    "forks_count": 628
+    "forks_count": 627
   },
   {
     "full_name": "jxnblk/react-css-grid",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16672,
+    "stargazers_count": 16669,
     "open_issues_count": 2,
     "forks_count": 907
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 19488,
+    "stargazers_count": 19492,
     "open_issues_count": 47,
-    "forks_count": 706
+    "forks_count": 707
   },
   {
     "full_name": "mattdesl/module-best-practices",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 28814,
-    "open_issues_count": 718,
+    "stargazers_count": 28823,
+    "open_issues_count": 720,
     "forks_count": 2857
   },
   {
@@ -123,7 +123,7 @@
     "full_name": "kentcdodds/testing-workshop",
     "stargazers_count": 1366,
     "open_issues_count": 5,
-    "forks_count": 697
+    "forks_count": 696
   },
   {
     "full_name": "Goblinlordx/authograph",
