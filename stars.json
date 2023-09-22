@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 42038,
-    "open_issues_count": 119,
-    "forks_count": 7619
+    "stargazers_count": 42119,
+    "open_issues_count": 120,
+    "forks_count": 7665
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 60169,
-    "open_issues_count": 4,
-    "forks_count": 8459
+    "stargazers_count": 60205,
+    "open_issues_count": 5,
+    "forks_count": 8466
   },
   {
     "full_name": "iamshaunjp/framer-motion",
-    "stargazers_count": 301,
+    "stargazers_count": 303,
     "open_issues_count": 12,
-    "forks_count": 258
+    "forks_count": 259
   },
   {
     "full_name": "basarat/algorithms",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 13047,
-    "open_issues_count": 212,
+    "stargazers_count": 13055,
+    "open_issues_count": 213,
     "forks_count": 763
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 6838,
-    "open_issues_count": 71,
+    "stargazers_count": 6849,
+    "open_issues_count": 72,
     "forks_count": 356
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7040,
+    "stargazers_count": 7043,
     "open_issues_count": 62,
     "forks_count": 811
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16651,
+    "stargazers_count": 16650,
     "open_issues_count": 2,
     "forks_count": 905
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 19512,
+    "stargazers_count": 19514,
     "open_issues_count": 47,
-    "forks_count": 707
+    "forks_count": 708
   },
   {
     "full_name": "mattdesl/module-best-practices",
-    "stargazers_count": 1519,
+    "stargazers_count": 1520,
     "open_issues_count": 7,
     "forks_count": 93
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 28897,
+    "stargazers_count": 28908,
     "open_issues_count": 724,
-    "forks_count": 2869
+    "forks_count": 2872
   },
   {
     "full_name": "bgando/functionalJS",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "kentcdodds/testing-workshop",
-    "stargazers_count": 1362,
+    "stargazers_count": 1363,
     "open_issues_count": 5,
     "forks_count": 701
   },
@@ -171,7 +171,7 @@
     "full_name": "nitin42/react-imgpro",
     "stargazers_count": 2177,
     "open_issues_count": 7,
-    "forks_count": 109
+    "forks_count": 108
   },
   {
     "full_name": "elierotenberg/node-async-context",
