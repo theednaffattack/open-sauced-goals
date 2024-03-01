@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 47232,
-    "open_issues_count": 169,
-    "forks_count": 8827
+    "stargazers_count": 47348,
+    "open_issues_count": 171,
+    "forks_count": 8861
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 63492,
+    "stargazers_count": 63516,
     "open_issues_count": 0,
-    "forks_count": 8800
+    "forks_count": 8813
   },
   {
     "full_name": "iamshaunjp/framer-motion",
-    "stargazers_count": 331,
+    "stargazers_count": 330,
     "open_issues_count": 12,
-    "forks_count": 286
+    "forks_count": 287
   },
   {
     "full_name": "basarat/algorithms",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "leoforfree/cz-customizable",
-    "stargazers_count": 573,
+    "stargazers_count": 575,
     "open_issues_count": 60,
     "forks_count": 193
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 13289,
-    "open_issues_count": 59,
+    "stargazers_count": 13296,
+    "open_issues_count": 60,
     "forks_count": 769
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 7176,
-    "open_issues_count": 66,
-    "forks_count": 372
+    "stargazers_count": 7183,
+    "open_issues_count": 68,
+    "forks_count": 375
   },
   {
     "full_name": "evertramos/nginx-proxy-automation",
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7201,
-    "open_issues_count": 56,
-    "forks_count": 818
+    "stargazers_count": 7204,
+    "open_issues_count": 55,
+    "forks_count": 807
   },
   {
     "full_name": "dakshshah96/local-cert-generator",
-    "stargazers_count": 950,
+    "stargazers_count": 951,
     "open_issues_count": 8,
     "forks_count": 233
   },
   {
     "full_name": "GoogleChromeLabs/carlo",
-    "stargazers_count": 9330,
+    "stargazers_count": 9331,
     "open_issues_count": 56,
-    "forks_count": 340
+    "forks_count": 308
   },
   {
     "full_name": "crsandeep/simple-react-full-stack",
     "stargazers_count": 1602,
     "open_issues_count": 1,
-    "forks_count": 625
+    "forks_count": 624
   },
   {
     "full_name": "jxnblk/react-css-grid",
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "williaster/data-ui",
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 25,
     "forks_count": 69
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16603,
+    "stargazers_count": 16601,
     "open_issues_count": 2,
     "forks_count": 871
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 19738,
+    "stargazers_count": 19736,
     "open_issues_count": 47,
     "forks_count": 661
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 29485,
-    "open_issues_count": 752,
+    "stargazers_count": 29487,
+    "open_issues_count": 753,
     "forks_count": 2832
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "kentcdodds/testing-workshop",
-    "stargazers_count": 1359,
+    "stargazers_count": 1358,
     "open_issues_count": 5,
     "forks_count": 706
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "britecharts/britecharts",
-    "stargazers_count": 3741,
+    "stargazers_count": 3740,
     "open_issues_count": 6,
-    "forks_count": 246
+    "forks_count": 221
   },
   {
     "full_name": "nitin42/react-imgpro",
