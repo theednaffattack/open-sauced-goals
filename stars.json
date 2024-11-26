@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 54374,
-    "open_issues_count": 29,
-    "forks_count": 10178
+    "stargazers_count": 54482,
+    "open_issues_count": 32,
+    "forks_count": 10190
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 67283,
+    "stargazers_count": 67369,
     "open_issues_count": 5,
-    "forks_count": 9128
+    "forks_count": 9142
   },
   {
     "full_name": "iamshaunjp/framer-motion",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 12,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "basarat/algorithms",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 13703,
+    "stargazers_count": 13712,
     "open_issues_count": 76,
-    "forks_count": 800
+    "forks_count": 801
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 7705,
+    "stargazers_count": 7713,
     "open_issues_count": 85,
-    "forks_count": 401
+    "forks_count": 402
   },
   {
     "full_name": "evertramos/nginx-proxy-automation",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7420,
-    "open_issues_count": 48,
+    "stargazers_count": 7422,
+    "open_issues_count": 44,
     "forks_count": 825
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "crsandeep/simple-react-full-stack",
-    "stargazers_count": 1614,
+    "stargazers_count": 1613,
     "open_issues_count": 1,
-    "forks_count": 631
+    "forks_count": 630
   },
   {
     "full_name": "jxnblk/react-css-grid",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16538,
+    "stargazers_count": 16536,
     "open_issues_count": 2,
     "forks_count": 862
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 20007,
+    "stargazers_count": 20013,
     "open_issues_count": 49,
     "forks_count": 663
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 30620,
-    "open_issues_count": 797,
-    "forks_count": 2881
+    "stargazers_count": 30632,
+    "open_issues_count": 800,
+    "forks_count": 2885
   },
   {
     "full_name": "bgando/functionalJS",
