@@ -1,13 +1,13 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 57470,
-    "open_issues_count": 66,
-    "forks_count": 10542
+    "stargazers_count": 57546,
+    "open_issues_count": 70,
+    "forks_count": 10551
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 68456,
+    "stargazers_count": 68464,
     "open_issues_count": 4,
     "forks_count": 9261
   },
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "leoforfree/cz-customizable",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "open_issues_count": 63,
     "forks_count": 201
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 13881,
+    "stargazers_count": 13883,
     "open_issues_count": 78,
-    "forks_count": 810
+    "forks_count": 809
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 7878,
+    "stargazers_count": 7881,
     "open_issues_count": 89,
     "forks_count": 411
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7525,
+    "stargazers_count": 7526,
     "open_issues_count": 45,
     "forks_count": 822
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "GoogleChromeLabs/carlo",
-    "stargazers_count": 9302,
+    "stargazers_count": 9304,
     "open_issues_count": 56,
     "forks_count": 309
   },
   {
     "full_name": "crsandeep/simple-react-full-stack",
-    "stargazers_count": 1624,
+    "stargazers_count": 1623,
     "open_issues_count": 1,
-    "forks_count": 639
+    "forks_count": 640
   },
   {
     "full_name": "jxnblk/react-css-grid",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 20105,
+    "stargazers_count": 20106,
     "open_issues_count": 49,
     "forks_count": 669
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 30997,
+    "stargazers_count": 31008,
     "open_issues_count": 822,
     "forks_count": 2900
   },
@@ -123,7 +123,7 @@
     "full_name": "kentcdodds/testing-workshop",
     "stargazers_count": 1362,
     "open_issues_count": 5,
-    "forks_count": 708
+    "forks_count": 707
   },
   {
     "full_name": "Goblinlordx/authograph",
