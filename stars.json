@@ -1,21 +1,21 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 61884,
-    "open_issues_count": 89,
-    "forks_count": 11150
+    "stargazers_count": 61942,
+    "open_issues_count": 85,
+    "forks_count": 11153
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 74093,
-    "open_issues_count": 2,
-    "forks_count": 9890
+    "stargazers_count": 74804,
+    "open_issues_count": 3,
+    "forks_count": 9991
   },
   {
     "full_name": "iamshaunjp/framer-motion",
     "stargazers_count": 385,
     "open_issues_count": 12,
-    "forks_count": 321
+    "forks_count": 320
   },
   {
     "full_name": "basarat/algorithms",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 14131,
+    "stargazers_count": 14132,
     "open_issues_count": 87,
     "forks_count": 817
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 8296,
+    "stargazers_count": 8304,
     "open_issues_count": 6,
     "forks_count": 437
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7696,
+    "stargazers_count": 7697,
     "open_issues_count": 47,
     "forks_count": 836
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 20189,
+    "stargazers_count": 20190,
     "open_issues_count": 51,
     "forks_count": 667
   },
   {
     "full_name": "mattdesl/module-best-practices",
-    "stargazers_count": 1549,
+    "stargazers_count": 1550,
     "open_issues_count": 7,
     "forks_count": 88
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 31696,
-    "open_issues_count": 845,
-    "forks_count": 2930
+    "stargazers_count": 31699,
+    "open_issues_count": 846,
+    "forks_count": 2931
   },
   {
     "full_name": "bgando/functionalJS",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "Sly777/ran",
-    "stargazers_count": 2207,
+    "stargazers_count": 2208,
     "open_issues_count": 89,
     "forks_count": 159
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "cujojs/most",
-    "stargazers_count": 3495,
+    "stargazers_count": 3496,
     "open_issues_count": 50,
     "forks_count": 203
   },
