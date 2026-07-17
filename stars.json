@@ -1,19 +1,19 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 63519,
+    "stargazers_count": 63548,
     "open_issues_count": 40,
-    "forks_count": 11223
+    "forks_count": 11227
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 82448,
+    "stargazers_count": 82495,
     "open_issues_count": 2,
-    "forks_count": 11375
+    "forks_count": 11376
   },
   {
     "full_name": "iamshaunjp/framer-motion",
-    "stargazers_count": 407,
+    "stargazers_count": 408,
     "open_issues_count": 12,
     "forks_count": 320
   },
@@ -33,7 +33,7 @@
     "full_name": "leoforfree/cz-customizable",
     "stargazers_count": 639,
     "open_issues_count": 65,
-    "forks_count": 201
+    "forks_count": 200
   },
   {
     "full_name": "blitz-js/blitz",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7716,
+    "stargazers_count": 7717,
     "open_issues_count": 37,
     "forks_count": 825
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "GoogleChromeLabs/carlo",
-    "stargazers_count": 9259,
+    "stargazers_count": 9257,
     "open_issues_count": 57,
-    "forks_count": 312
+    "forks_count": 311
   },
   {
     "full_name": "crsandeep/simple-react-full-stack",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16387,
+    "stargazers_count": 16385,
     "open_issues_count": 2,
-    "forks_count": 840
+    "forks_count": 839
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 20168,
+    "stargazers_count": 20167,
     "open_issues_count": 50,
     "forks_count": 665
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 32007,
+    "stargazers_count": 32014,
     "open_issues_count": 849,
-    "forks_count": 2928
+    "forks_count": 2930
   },
   {
     "full_name": "bgando/functionalJS",
@@ -141,7 +141,7 @@
     "full_name": "cujojs/most",
     "stargazers_count": 3491,
     "open_issues_count": 50,
-    "forks_count": 200
+    "forks_count": 199
   },
   {
     "full_name": "rabbotio/nap",
@@ -177,6 +177,6 @@
     "full_name": "dantrain/react-stonecutter",
     "stargazers_count": 1230,
     "open_issues_count": 19,
-    "forks_count": 71
+    "forks_count": 70
   }
 ]
