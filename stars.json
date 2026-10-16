@@ -1,19 +1,19 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 64332,
-    "open_issues_count": 37,
-    "forks_count": 11252
+    "stargazers_count": 64368,
+    "open_issues_count": 38,
+    "forks_count": 11255
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 83663,
+    "stargazers_count": 83683,
     "open_issues_count": 5,
-    "forks_count": 11488
+    "forks_count": 11484
   },
   {
     "full_name": "iamshaunjp/framer-motion",
-    "stargazers_count": 421,
+    "stargazers_count": 422,
     "open_issues_count": 12,
     "forks_count": 324
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 14122,
+    "stargazers_count": 14121,
     "open_issues_count": 90,
     "forks_count": 800
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 8523,
+    "stargazers_count": 8527,
     "open_issues_count": 8,
     "forks_count": 463
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "nginx-proxy/acme-companion",
-    "stargazers_count": 7726,
+    "stargazers_count": 7725,
     "open_issues_count": 41,
-    "forks_count": 823
+    "forks_count": 824
   },
   {
     "full_name": "dakshshah96/local-cert-generator",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "GoogleChromeLabs/carlo",
-    "stargazers_count": 9248,
+    "stargazers_count": 9247,
     "open_issues_count": 57,
     "forks_count": 311
   },
@@ -99,7 +99,7 @@
     "full_name": "Popmotion/popmotion",
     "stargazers_count": 20152,
     "open_issues_count": 50,
-    "forks_count": 662
+    "forks_count": 661
   },
   {
     "full_name": "mattdesl/module-best-practices",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 32217,
+    "stargazers_count": 32240,
     "open_issues_count": 858,
-    "forks_count": 2952
+    "forks_count": 2950
   },
   {
     "full_name": "bgando/functionalJS",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "Sly777/ran",
-    "stargazers_count": 2204,
+    "stargazers_count": 2206,
     "open_issues_count": 89,
     "forks_count": 160
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "britecharts/britecharts",
-    "stargazers_count": 3719,
-    "open_issues_count": 1,
+    "stargazers_count": 3720,
+    "open_issues_count": 4,
     "forks_count": 215
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "dantrain/react-stonecutter",
-    "stargazers_count": 1229,
+    "stargazers_count": 1230,
     "open_issues_count": 19,
     "forks_count": 70
   }
