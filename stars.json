@@ -1,15 +1,15 @@
 [
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 64499,
+    "stargazers_count": 64549,
     "open_issues_count": 38,
-    "forks_count": 11277
+    "forks_count": 11287
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 84281,
+    "stargazers_count": 84523,
     "open_issues_count": 6,
-    "forks_count": 11579
+    "forks_count": 11616
   },
   {
     "full_name": "iamshaunjp/framer-motion",
@@ -37,26 +37,26 @@
   },
   {
     "full_name": "blitz-js/blitz",
-    "stargazers_count": 14121,
+    "stargazers_count": 14118,
     "open_issues_count": 90,
     "forks_count": 800
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 8538,
+    "stargazers_count": 8542,
     "open_issues_count": 9,
-    "forks_count": 467
+    "forks_count": 468
   },
   {
     "full_name": "evertramos/nginx-proxy-automation",
-    "stargazers_count": 2872,
+    "stargazers_count": 2875,
     "open_issues_count": 4,
     "forks_count": 638
   },
   {
     "full_name": "nginx-proxy/acme-companion",
     "stargazers_count": 7727,
-    "open_issues_count": 43,
+    "open_issues_count": 44,
     "forks_count": 822
   },
   {
@@ -75,7 +75,7 @@
     "full_name": "crsandeep/simple-react-full-stack",
     "stargazers_count": 1629,
     "open_issues_count": 5,
-    "forks_count": 657
+    "forks_count": 656
   },
   {
     "full_name": "jxnblk/react-css-grid",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16373,
+    "stargazers_count": 16371,
     "open_issues_count": 2,
     "forks_count": 836
   },
   {
     "full_name": "Popmotion/popmotion",
-    "stargazers_count": 20150,
+    "stargazers_count": 20149,
     "open_issues_count": 50,
     "forks_count": 661
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "airbnb/lottie-web",
-    "stargazers_count": 32290,
+    "stargazers_count": 32338,
     "open_issues_count": 861,
-    "forks_count": 2953
+    "forks_count": 2958
   },
   {
     "full_name": "bgando/functionalJS",
@@ -158,7 +158,7 @@
   {
     "full_name": "britecharts/britecharts",
     "stargazers_count": 3719,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 215
   },
   {
